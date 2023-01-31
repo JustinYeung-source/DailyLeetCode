@@ -1,0 +1,10 @@
+C:\Coding\DailyLeetCode\LeetCodeTester\bin\Debug\LeetCodeTester.exe.config
+C:\Coding\DailyLeetCode\LeetCodeTester\bin\Debug\LeetCodeTester.exe
+C:\Coding\DailyLeetCode\LeetCodeTester\bin\Debug\LeetCodeTester.pdb
+C:\Coding\DailyLeetCode\LeetCodeTester\bin\Debug\nunit.framework.dll
+C:\Coding\DailyLeetCode\LeetCodeTester\bin\Debug\nunit.framework.xml
+C:\Coding\DailyLeetCode\LeetCodeTester\obj\Debug\LeetCodeTester.csproj.AssemblyReference.cache
+C:\Coding\DailyLeetCode\LeetCodeTester\obj\Debug\LeetCodeTester.csproj.CoreCompileInputs.cache
+C:\Coding\DailyLeetCode\LeetCodeTester\obj\Debug\LeetCodeTester.csproj.CopyComplete
+C:\Coding\DailyLeetCode\LeetCodeTester\obj\Debug\LeetCodeTester.exe
+C:\Coding\DailyLeetCode\LeetCodeTester\obj\Debug\LeetCodeTester.pdb
