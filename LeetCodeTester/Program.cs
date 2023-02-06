@@ -39,6 +39,7 @@ namespace LeetCodeTester
 			Day4 day4 = new Day4();
 			Day5 day5 = new Day5();
 			Day6 day6 = new Day6();
+			Day7 day7 = new Day7();
 
 			problems.Add(day1);
 			problems.Add(day2);
@@ -46,6 +47,7 @@ namespace LeetCodeTester
 			problems.Add(day4);
 			problems.Add(day5);
 			problems.Add(day6);
+			problems.Add(day7);
 		}
 	}
 }

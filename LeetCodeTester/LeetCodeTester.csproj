@@ -55,6 +55,7 @@
     <Compile Include="Problems\Day4.cs" />
     <Compile Include="Problems\Day5.cs" />
     <Compile Include="Problems\Day6.cs" />
+    <Compile Include="Problems\Day7.cs" />
     <Compile Include="Problems\ISolution.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
