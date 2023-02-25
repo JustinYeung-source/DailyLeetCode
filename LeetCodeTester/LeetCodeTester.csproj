@@ -50,6 +50,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Problems\Day1.cs" />
+    <Compile Include="Problems\Day10.cs" />
+    <Compile Include="Problems\Day11.cs" />
+    <Compile Include="Problems\Day12.cs" />
     <Compile Include="Problems\Day2.cs" />
     <Compile Include="Problems\Day3.cs" />
     <Compile Include="Problems\Day4.cs" />
